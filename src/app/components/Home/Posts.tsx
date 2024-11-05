@@ -12,6 +12,9 @@ const Posts = () => {
                 <Story />
             </div>
             <Post />
+            <Post />
+            <Post />
+            <Post />
         </div>
     )
 }
