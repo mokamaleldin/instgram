@@ -1,6 +1,6 @@
-import Firends from "../components/Home/Firends";
+import Firends from "../components/Home/Firends/Firends";
 import Posts from "../components/Home/posts/Posts";
-import SideBar from "../components/Home/SideBar";
+import SideBar from "../components/AllPage/SideBar";
 
 export default function Home() {
   return (
