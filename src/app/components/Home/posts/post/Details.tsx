@@ -75,7 +75,7 @@ const Details = () => {
                     value={newComment}
                     onChange={(e) => setNewComment(e.target.value)}
                     placeholder="Add a comment..."
-                    className="border-b border-gray-300 focus:outline-none"
+                    className="border-b border-gray-300 focus:outline-none w-full"
                 />
                 <button onClick={handleAddComment} className="text-blue-500">
                     Post
